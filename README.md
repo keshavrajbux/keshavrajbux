@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Keshav</h1>
-<h3 align="center">Aspiring to become a data analyst soon.</h3>
+<h3 align="center">Aspiring to become a data analyst. </h3>
 
 - 🔭 I’m currently working on **NLP&AI based chatbot for an Academic Project**
 
