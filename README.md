@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Keshav</h1>
 <h3 align="center">Aspiring to become a data analyst. </h3>
 
-- 🔭 I’m currently working on **NLP&AI based chatbot for an Academic Project**
+- 🔭 I’m currently working on **personal projects that display my skills.**
 
-- 🌱 I’m currently learning **NLP, Generative AI, Big Data and more**
+- 🌱 I’m currently learning **NLP, Generative AI, PySpark and SQL (Professional Level).**
 
 - 👨‍💻 All of my projects are available at [github.com/keshavrajbux](github.com/keshavrajbux)
 
 - 📫 How to reach me **keshavrajbux@gmail.com**
 
-- ⚡ Fun fact **I look for complex problems and solve them.**
+- ⚡ Fun fact **I find complex problems and resolve them in the most creative way.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
