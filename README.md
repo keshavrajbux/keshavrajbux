@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects that display my skills.**
 
-- 🌱 I’m currently learning **NLP, Generative AI, PySpark and SQL (Professional Level).**
+- 🌱 I’m currently learning **NLP, Git, PySpark and SQL (Professional Level).**
 
 - 👨‍💻 All of my projects are available at [github.com/keshavrajbux](github.com/keshavrajbux)
 
