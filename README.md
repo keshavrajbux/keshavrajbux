@@ -1,7 +1,7 @@
 ### Welcome to my Projects Portfolio! 👋
 
 <h1 align="center"> Hi 👋, I'm Keshav </h1>
-<h3 align="center"> Aspiring to utilise my skills in real-time. </h3>
+<h3 align="center"> Eager to exhibit my skills in real-time world. </h3>
 
 - 🔭 I’m currently working on **personal projects that display my skills.**
 
