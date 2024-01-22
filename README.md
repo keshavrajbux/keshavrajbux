@@ -1,7 +1,7 @@
-### Hi there 👋
+### Welcome to my Projects Portfolio! 👋
 
-<h1 align="center">Hi 👋, I'm Keshav</h1>
-<h3 align="center">Aspiring to become a data analyst. </h3>
+<h1 align="center"> Hi 👋, I'm Keshav </h1>
+<h3 align="center"> Aspiring to utilise my skills in real-time. </h3>
 
 - 🔭 I’m currently working on **personal projects that display my skills.**
 
