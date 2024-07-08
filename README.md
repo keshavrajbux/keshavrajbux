@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Generative AI, RAG Pipelines, Deployment of AI/ML Models.**
 
-- 🌱 I’m currently learning **Deep Learning, PySpark.**
+- 🌱 I’m currently learning **Deep Learning.**
 
 - 👨‍💻 All of my projects are available at [github.com/keshavrajbux](github.com/keshavrajbux)
 
