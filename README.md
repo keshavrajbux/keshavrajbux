@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [github.com/keshavrajbux](github.com/keshavrajbux)
 
-- 📫 How to reach me **keshavrajbux@gmail.com**
 
 - ⚡ Fun fact **I find complex problems and resolve them in the most creative way.**
 
