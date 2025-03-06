@@ -3,7 +3,7 @@
 <h1 align="center"> Hi 👋, I'm Keshav (Kay-shuv) </h1>
 <h3 align="center"> Eager to exhibit my skills in real-time world. </h3>
 
-- 🔭 I’m currently working on ** Predictive Models, Generative AI, RAG Pipelines, Deployment of AI/ML Models **
+- 🔭 I’m currently working on **Predictive Models, Generative AI, RAG Pipelines, Deployment of AI/ML Models**
 
 - 🌱 I’m currently learning **Deep Learning, Transformers**
 
