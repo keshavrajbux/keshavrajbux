@@ -16,36 +16,38 @@
 
 ## ✨ The Mind Behind the Code
 
-<table>
+<div align="center">
+<table style="background: linear-gradient(135deg, #121212 0%, #2c3e50 100%); border-radius: 16px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin: 0 auto; overflow: hidden;">
   <tr>
-    <td width="50%">
-      <img src="https://github.com/keshavrajbux.png" alt="Profile Avatar" width="250" style="border-radius: 50%"/>
+    <td width="40%" align="center" style="padding: 20px;">
+      <img src="https://github.com/keshavrajbux.png" alt="Profile Avatar" width="220" style="border-radius: 50%; border: 4px solid #0077B5; box-shadow: 0 0 10px rgba(0,0,0,0.5);"/>
     </td>
-    <td width="50%">
-      <h3>👋 Hi, I'm Keshav (Kay-shuv)</h3>
+    <td width="60%" align="center" style="padding: 20px; color: #ffffff;">
+      <h3 style="margin-top: 0; color: #00a8ff;">👋 Hi, I'm Keshav (Kay-shuv)</h3>
       <p>AI/ML Engineer passionate about building intelligent systems that deliver real-world value.</p>
-      <ul>
-        <li>🚀 Currently exploring <b>Generative AI</b>, <b>LLMs</b>, and <b>RAG Pipelines</b></li>
-        <li>🔮 Focused on <b>building scalable AI systems</b> that solve complex problems</li>
-        <li>🎯 Superpower: <b>Finding creative solutions to complex ML/AI challenges</b></li>
-        <li>☕ Let's chat: <a href="https://linkedin.com/in/keshav-rajbux">Connect on LinkedIn</a></li>
+      <ul style="text-align: left; list-style-type: none; padding-left: 0;">
+        <li style="margin: 8px 0;">🚀 Currently exploring <b>Generative AI</b>, <b>LLMs</b>, and <b>RAG Pipelines</b></li>
+        <li style="margin: 8px 0;">🔮 Focused on <b>building scalable AI systems</b> that solve complex problems</li>
+        <li style="margin: 8px 0;">🎯 Superpower: <b>Finding creative solutions to complex ML/AI challenges</b></li>
+        <li style="margin: 8px 0;">☕ Let's chat: <a href="https://linkedin.com/in/keshav-rajbux" style="color: #00a8ff;">Connect on LinkedIn</a></li>
       </ul>
     </td>
   </tr>
 </table>
+</div>
 
 ## 🛠️ Skills Arsenal
 
 <div align="center">
-  <table>
+  <table style="background: linear-gradient(135deg, #121212 0%, #2c3e50 100%); border-radius: 16px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin: 0 auto; overflow: hidden; color: #ffffff;">
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 20px;">
         <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning"/><br>
         <img src="https://img.shields.io/badge/Regression-gray?style=flat-square"/> 
         <img src="https://img.shields.io/badge/Classification-gray?style=flat-square"/> 
         <img src="https://img.shields.io/badge/Clustering-gray?style=flat-square"/>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 20px;">
         <img src="https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=for-the-badge" alt="Deep Learning"/><br>
         <img src="https://img.shields.io/badge/CNNs-gray?style=flat-square"/> 
         <img src="https://img.shields.io/badge/RNNs-gray?style=flat-square"/> 
@@ -53,13 +55,13 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 20px;">
         <img src="https://img.shields.io/badge/-NLP-9cf?style=for-the-badge" alt="NLP"/><br>
         <img src="https://img.shields.io/badge/LLMs-gray?style=flat-square"/> 
         <img src="https://img.shields.io/badge/RAG-gray?style=flat-square"/> 
         <img src="https://img.shields.io/badge/Embeddings-gray?style=flat-square"/>
       </td>
-      <td align="center">
+      <td align="center" style="padding: 20px;">
         <img src="https://img.shields.io/badge/-Frameworks-0A0A0A?style=for-the-badge" alt="Frameworks"/><br>
         <img src="https://img.shields.io/badge/PyTorch-gray?style=flat-square"/> 
         <img src="https://img.shields.io/badge/TensorFlow-gray?style=flat-square"/> 
@@ -88,17 +90,18 @@
 
 ## 💼 Featured Projects
 
-<table>
+<div align="center">
+<table style="background: linear-gradient(135deg, #121212 0%, #2c3e50 100%); border-radius: 16px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.2); margin: 0 auto; overflow: hidden; color: #ffffff;">
   <tr>
-    <td>
-      <h3>🤖 Generative AI Applications</h3>
+    <td style="padding: 20px;">
+      <h3 style="color: #00a8ff;">🤖 Generative AI Applications</h3>
       <p>Building RAG systems with enterprise data integration. Fine-tuning LLMs for domain-specific tasks.</p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square"/>
       <img src="https://img.shields.io/badge/Hugging Face-FF9D00?style=flat-square"/>
     </td>
-    <td>
-      <h3>📊 Predictive Analytics Models</h3>
+    <td style="padding: 20px;">
+      <h3 style="color: #00a8ff;">📊 Predictive Analytics Models</h3>
       <p>Developing robust predictive models for business insights. Optimizing for both accuracy and explainability.</p>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
@@ -106,15 +109,15 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <h3>🚀 ML Deployment Pipelines</h3>
+    <td style="padding: 20px;">
+      <h3 style="color: #00a8ff;">🚀 ML Deployment Pipelines</h3>
       <p>Creating end-to-end ML deployment pipelines. Ensuring seamless transition from model to production.</p>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     </td>
-    <td>
-      <h3>🧠 Deep Learning Research</h3>
+    <td style="padding: 20px;">
+      <h3 style="color: #00a8ff;">🧠 Deep Learning Research</h3>
       <p>Experimenting with cutting-edge architectures. Focus on transformer models and their applications.</p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
@@ -122,11 +125,12 @@
     </td>
   </tr>
 </table>
+</div>
 
 ## ✨ My Philosophy
 
-<div align="center">
-  <p style="font-size: 20px; font-weight: bold; font-style: italic;">
+<div align="center" style="background: linear-gradient(135deg, #121212 0%, #2c3e50 100%); border-radius: 16px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.2); padding: 20px; margin: 0 auto; color: #ffffff;">
+  <p style="font-size: 20px; font-weight: bold; font-style: italic; color: #00a8ff;">
     "AI should work for humans, not the other way around. Let's build systems that augment human potential."
   </p>
   
@@ -135,7 +139,7 @@
 
 ## 🤝 Let's Connect!
 
-<div align="center">
+<div align="center" style="background: linear-gradient(135deg, #121212 0%, #2c3e50 100%); border-radius: 16px; border: 1px solid #30363d; box-shadow: 0 8px 24px rgba(0,0,0,0.2); padding: 20px; margin: 0 auto; color: #ffffff;">
   <p>I'm always interested in connecting with fellow ML/AI enthusiasts, potential collaborators, and tech leaders.</p>
   <p>Let's explore how we can leverage AI to solve meaningful problems!</p>
   <a href="https://linkedin.com/in/keshav-rajbux">
@@ -143,6 +147,6 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=keshavrajbux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
