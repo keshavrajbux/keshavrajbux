@@ -10,55 +10,116 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-```ascii
-           ___           ___           ___       ___       ___     
-          /\  \         /\  \         /\__\     /\__\     /\  \    
-         /::\  \       /::\  \       /:/  /    /:/  /    /::\  \   
-        /:/\:\  \     /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-       /::\~\:\  \   /::\~\:\  \   /:/  /    /:/  /    /::\~\:\  \ 
-      /:/\:\ \:\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/\:\ \:\__\
-      \/_|::\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\~\:\ \/__/
-         |:|::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\ \:\__\  
-         |:|\/__/     \:\ \/__/     \:\  \    \:\  \    \:\ \/__/  
-         |:|  |        \:\__\        \:\__\    \:\__\    \:\__\    
-          \|__|         \/__/         \/__/     \/__/     \/__/    
-```
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%"/>
 
 </div>
 
-## `> whoami`
+## ✨ The Mind Behind the Code
 
-```python
-class KeshavRajbux:
-    def __init__(self):
-        self.name = "Keshav (Kay-shuv) Rajbux"
-        self.role = "AI/ML Engineer"
-        self.interests = ["Generative AI", "LLMs", "RAG Pipelines", "Deep Learning"]
-        self.current_focus = "Building scalable AI systems that deliver real-world value"
-        
-    def superpower(self):
-        return "Finding creative solutions to complex ML/AI problems"
-        
-    def get_coffee_chat(self):
-        return "https://linkedin.com/in/keshav-rajbux"
-```
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://avatars.githubusercontent.com/u/keshavrajbux" alt="Profile Avatar" width="250" style="border-radius: 50%"/>
+    </td>
+    <td width="50%">
+      <h3>👋 Hi, I'm Keshav (Kay-shuv)</h3>
+      <p>AI/ML Engineer passionate about building intelligent systems that deliver real-world value.</p>
+      <ul>
+        <li>🚀 Currently exploring <b>Generative AI</b>, <b>LLMs</b>, and <b>RAG Pipelines</b></li>
+        <li>🔮 Focused on <b>building scalable AI systems</b> that solve complex problems</li>
+        <li>🎯 Superpower: <b>Finding creative solutions to complex ML/AI challenges</b></li>
+        <li>☕ Let's chat: <a href="https://linkedin.com/in/keshav-rajbux">Connect on LinkedIn</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## `> cat skills.json`
+## 🛠️ Skills Arsenal
 
-```json
-{
-  "machine_learning": ["Regression", "Classification", "Clustering", "Dimensionality Reduction"],
-  "deep_learning": ["CNNs", "RNNs", "Transformers", "GANs", "Diffusion Models"],
-  "nlp": ["LLMs", "RAG", "Embeddings", "Semantic Search", "Prompt Engineering"],
-  "languages": ["Python", "SQL", "Bash"],
-  "frameworks": ["PyTorch", "TensorFlow", "scikit-learn", "Hugging Face", "LangChain"],
-  "cloud": ["AWS", "GCP", "Azure"],
-  "data": ["MySQL", "MongoDB", "Hadoop", "Spark", "Pandas"],
-  "mlops": ["CI/CD", "Docker", "FastAPI", "Model Deployment"]
-}
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge" alt="Machine Learning"/><br>
+        <img src="https://img.shields.io/badge/Regression-gray?style=flat-square"/> 
+        <img src="https://img.shields.io/badge/Classification-gray?style=flat-square"/> 
+        <img src="https://img.shields.io/badge/Clustering-gray?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=for-the-badge" alt="Deep Learning"/><br>
+        <img src="https://img.shields.io/badge/CNNs-gray?style=flat-square"/> 
+        <img src="https://img.shields.io/badge/RNNs-gray?style=flat-square"/> 
+        <img src="https://img.shields.io/badge/Transformers-gray?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-NLP-9cf?style=for-the-badge" alt="NLP"/><br>
+        <img src="https://img.shields.io/badge/LLMs-gray?style=flat-square"/> 
+        <img src="https://img.shields.io/badge/RAG-gray?style=flat-square"/> 
+        <img src="https://img.shields.io/badge/Embeddings-gray?style=flat-square"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Frameworks-0A0A0A?style=for-the-badge" alt="Frameworks"/><br>
+        <img src="https://img.shields.io/badge/PyTorch-gray?style=flat-square"/> 
+        <img src="https://img.shields.io/badge/TensorFlow-gray?style=flat-square"/> 
+        <img src="https://img.shields.io/badge/Hugging_Face-gray?style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## `> ls projects/`
+## 🚀 Career Journey
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavrajbux&theme=dark" alt="GitHub streak stats" width="60%"/>
+  
+  <table>
+    <tr>
+      <td>
+        <h3>2024</h3>
+        <img src="https://img.shields.io/badge/-Frontier_AI-brightgreen?style=for-the-badge"/>
+        <p>Exploring cutting-edge AI models and their business applications</p>
+      </td>
+      <td>
+        <h3>2023</h3>
+        <img src="https://img.shields.io/badge/-RAG_Solutions-blue?style=for-the-badge"/>
+        <p>Implemented knowledge retrieval systems for enterprise</p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <h3>2022</h3>
+        <img src="https://img.shields.io/badge/-Predictive_Models-orange?style=for-the-badge"/>
+        <p>Built and deployed machine learning models at scale</p>
+      </td>
+      <td>
+        <h3>2021-2020</h3>
+        <img src="https://img.shields.io/badge/-Deep_Learning_&_ML-purple?style=for-the-badge"/>
+        <p>Mastered fundamentals and specialized in advanced architectures</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🧩 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</div>
+
+## 💼 Featured Projects
 
 <table>
   <tr>
@@ -95,23 +156,17 @@ class KeshavRajbux:
   </tr>
 </table>
 
-## `> tail -f journey.log`
-
-```
-[2024] >> Exploring frontier AI models and their business applications
-[2023] >> Implemented RAG solutions for enterprise knowledge bases
-[2022] >> Built and deployed predictive models at scale
-[2021] >> Specialized in deep learning architectures
-[2020] >> Mastered ML fundamentals and data pipelines
-```
-
-## `> echo $MOTTO`
+## ✨ My Philosophy
 
 <div align="center">
+  <p style="font-size: 20px; font-weight: bold; font-style: italic;">
+    "AI should work for humans, not the other way around. Let's build systems that augment human potential."
+  </p>
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Creating+AI+that+augments+human+potential;Building+tomorrow's+intelligence%2C+today;Turning+data+into+actionable+insights;Making+complex+ML+systems+simple+and+scalable" alt="Typing SVG" />
 </div>
 
-## `> contact`
+## 🤝 Let's Connect!
 
 <div align="center">
   <p>I'm always interested in connecting with fellow ML/AI enthusiasts, potential collaborators, and tech leaders.</p>
