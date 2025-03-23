@@ -1,11 +1,14 @@
 <div align="center">
   
-# <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="40"> KESHAV RAJBUX <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="40">
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="80"> KESHAV RAJBUX
 
-#### ML/AI Engineer specializing in LLMs & RAG Systems
+<div style="background: linear-gradient(to right, #4F46E5, #2563EB, #06B6D4); padding: 10px; margin-bottom: 20px; border-radius: 5px;">
+  <h3 style="color: white; margin: 0;">ML/AI Engineer specializing in LLMs & RAG Systems</h3>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-rajbux)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keshavrajbux)
+<a href="https://linkedin.com/in/keshav-rajbux" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%"/>
 
@@ -46,24 +49,24 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/1LKVDsN3KkIw1QXDd4/giphy.gif" width="60" height="60">
+      <img src="https://img.shields.io/badge/🤖-Machine%20Learning-FF6F00?style=for-the-badge" width="250">
       <h3>Machine Learning</h3>
       <p>Classification • Regression • Clustering • XGBoost • Random Forests</p>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/l3fQyrrh9W1QE13AQ/giphy.gif" width="60" height="60">
+      <img src="https://img.shields.io/badge/🧠-Deep%20Learning-EE4C2C?style=for-the-badge" width="250">
       <h3>Deep Learning</h3>
       <p>Neural Networks • CNNs • RNNs • Transformers • Transfer Learning</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://media.giphy.com/media/l0HlHcuzAYwlcYSVq/giphy.gif" width="60" height="60">
+      <img src="https://img.shields.io/badge/📝-NLP-9cf?style=for-the-badge" width="250">
       <h3>Natural Language Processing</h3>
       <p>LLMs • RAG • Embeddings • Semantic Search • Fine-tuning</p>
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="60" height="60">
+      <img src="https://img.shields.io/badge/⚙️-MLOps-2496ED?style=for-the-badge" width="250">
       <h3>MLOps & Deployment</h3>
       <p>CI/CD • Model Serving • Monitoring • Containerization • Scaling</p>
     </td>
@@ -129,7 +132,7 @@
   <p>I'm always interested in connecting with fellow ML/AI enthusiasts, potential collaborators, and tech leaders.</p>
   <p>Let's explore how we can leverage AI to solve meaningful problems!</p>
   
-  <a href="https://linkedin.com/in/keshav-rajbux">
+  <a href="https://linkedin.com/in/keshav-rajbux/" target="_blank">
     <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   
