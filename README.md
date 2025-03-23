@@ -25,9 +25,15 @@
 </picture>
 
 <div style="margin-top: -100px; padding: 20px;">
-  <img src="https://github.com/keshavrajbux.png" alt="Profile Avatar" width="280" style="border-radius: 50%; border: 4px solid #00ffff; box-shadow: 0 0 20px #00ffff;"/>
-  <h1>👋 Hi, I'm Keshav (Kay-shuv)</h1>
-  <h2>AI/ML Engineer passionate about building intelligent systems that deliver real-world value.</h2>
+  <img src="https://github.com/keshavrajbux.png" alt="Profile Avatar" width="280" style="border-radius: 50%; border: 5px solid #00ffff; box-shadow: 0 0 35px rgba(0, 255, 255, 0.8); margin-bottom: 15px; animation: glow 3s infinite alternate;"/>
+  <style>
+    @keyframes glow {
+      0% { box-shadow: 0 0 20px rgba(0, 255, 255, 0.6); }
+      100% { box-shadow: 0 0 40px rgba(0, 255, 255, 0.9); }
+    }
+  </style>
+  <h1 style="color: #ffffff; text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff;">👋 Hi, I'm Keshav (Kay-shuv)</h1>
+  <h2 style="color: #f0f0f0; text-shadow: 0 0 5px #00ffff;">AI/ML Engineer passionate about building intelligent systems that deliver real-world value.</h2>
 </div>
 
 <br>
@@ -55,7 +61,7 @@
   </tr>
 </table>
 
-## ��️ Skills Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Skills Arsenal
 
 <div align="center">
   <table>
@@ -90,7 +96,7 @@
   </table>
 </div>
 
-## 🧩 Tech Stack & Tools
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -107,7 +113,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </div>
 
-## 💼 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
   <table>
@@ -149,16 +155,16 @@
 ## ✨ My Philosophy
 
 <div align="center">
-  <kbd>
+  <kbd style="background: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%); border: 2px solid #00ffff; border-radius: 10px;">
     <br>
-    <p align="center"><i><b>"AI should work for humans, not the other way around. Let's build systems that augment human potential."</b></i></p>
+    <p align="center"><i><b style="color: white; text-shadow: 0 0 5px #00ffff;">"AI should work for humans, not the other way around. Let's build systems that augment human potential."</b></i></p>
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Creating+AI+that+augments+human+potential;Building+tomorrow's+intelligence%2C+today;Turning+data+into+actionable+insights;Making+complex+ML+systems+simple+and+scalable" alt="Typing SVG" />
     <br>
   </kbd>
 </div>
 
-## 🤝 Let's Connect!
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
 
 <div align="center">
   <p>I'm always interested in connecting with fellow ML/AI enthusiasts, potential collaborators, and tech leaders.</p>
