@@ -21,10 +21,10 @@
     </td>
     <td width="50%">
       <h3>👋 Hey, I'm Keshav (Kay-shuv)</h3>
-      <p>AI/ML Engineer passionate about building intelligent systems that deliver real-world value.</p>
+      <p> Data Scientist passionate about building intelligent systems that deliver real-world value.</p>
       <p><b>🔭 Currently exploring:</b> Generative AI, LLMs, RAG Pipelines</p>
-      <p><b>🌟 Focus area:</b> Building scalable, production-ready AI systems</p>
-      <p><b>💡 Super skill:</b> Finding creative solutions to complex ML challenges</p>
+      <p><b>🌟 Focus area:</b> Building scalable, production-ready AI/ML systems</p>
+      <p><b>💡 Super skill:</b> Finding creative solutions to complex AI/ML challenges</p>
     </td>
   </tr>
 </table>
