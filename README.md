@@ -16,22 +16,44 @@
 
 <div align="center">
 
-## ✨ The Mind Behind the Code
+## ✨ The Mind Behind the Code ✨
 
-<kbd>
-  <br>
-  <img src="https://github.com/keshavrajbux.png" alt="Profile Avatar" width="200" style="border-radius: 50%"/>
-  <br><br>
-  <h3>👋 Hi, I'm Keshav (Kay-shuv)</h3>
-  <p>AI/ML Engineer passionate about building intelligent systems that deliver real-world value.</p>
-  <ul align="left">
-    <li>🚀 Currently exploring <b>Generative AI</b>, <b>LLMs</b>, and <b>RAG Pipelines</b></li>
-    <li>🔮 Focused on <b>building scalable AI systems</b> that solve complex problems</li>
-    <li>🎯 Superpower: <b>Finding creative solutions to complex ML/AI challenges</b></li>
-    <li>☕ Let's chat: <a href="https://linkedin.com/in-keshav-rajbux">Connect on LinkedIn</a></li>
-  </ul>
-  <br>
-</kbd>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/keshavrajbux/keshavrajbux/assets/73097560/115c2c2b-5afd-4d79-9f9e-0a0100d4ff0e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/keshavrajbux/keshavrajbux/assets/73097560/115c2c2b-5afd-4d79-9f9e-0a0100d4ff0e">
+  <img width="100%" alt="Header background" src="https://github.com/keshavrajbux/keshavrajbux/assets/73097560/115c2c2b-5afd-4d79-9f9e-0a0100d4ff0e">
+</picture>
+
+<div style="margin-top: -450px;">
+  <img src="https://github.com/keshavrajbux.png" alt="Profile Avatar" width="280" style="border-radius: 50%; border: 5px solid #fff;"/>
+  <h1>👋 Hi, I'm Keshav (Kay-shuv)</h1>
+  <h2>AI/ML Engineer passionate about building intelligent systems that deliver real-world value.</h2>
+</div>
+
+<br>
+
+<table border="0" align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 Currently exploring</h3>
+      <h2><b>Generative AI, LLMs, and RAG Pipelines</b></h2>
+    </td>
+    <td align="center" width="50%">
+      <h3>🔮 Focused on</h3>
+      <h2><b>Building scalable AI systems</b></h2>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🎯 Superpower</h3>
+      <h2><b>Finding creative solutions to complex ML/AI challenges</b></h2>
+    </td>
+    <td align="center">
+      <h3>☕ Let's chat</h3>
+      <h2><a href="https://linkedin.com/in/keshav-rajbux"><b>Connect on LinkedIn</b></a></h2>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Skills Arsenal
 
