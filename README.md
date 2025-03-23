@@ -1,40 +1,126 @@
-### Welcome to my Projects Portfolio! 👋
+<div align="center">
+  
+# 👾 KESHAV RAJBUX | ML/AI ENGINEER 👾
 
-<h1 align="center"> Hi 👋, I'm Keshav (Kay-shuv) </h1>
-<h3 align="center"> Eager to exhibit my skills in real-time world. </h3>
+<a href="https://linkedin.com/in/keshav-rajbux" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://github.com/keshavrajbux" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-- 🔭 I’m currently working on **Predictive Models, Generative AI, RAG Pipelines, Deployment of AI/ML Models**
+```ascii
+           ___           ___           ___       ___       ___     
+          /\  \         /\  \         /\__\     /\__\     /\  \    
+         /::\  \       /::\  \       /:/  /    /:/  /    /::\  \   
+        /:/\:\  \     /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+       /::\~\:\  \   /::\~\:\  \   /:/  /    /:/  /    /::\~\:\  \ 
+      /:/\:\ \:\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/\:\ \:\__\
+      \/_|::\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\~\:\ \/__/
+         |:|::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\ \:\__\  
+         |:|\/__/     \:\ \/__/     \:\  \    \:\  \    \:\ \/__/  
+         |:|  |        \:\__\        \:\__\    \:\__\    \:\__\    
+          \|__|         \/__/         \/__/     \/__/     \/__/    
+```
 
-- 🌱 I’m currently learning **Deep Learning, Transformers**
+</div>
 
-- 👨‍💻 All of my projects are available at [github.com/keshavrajbux](github.com/keshavrajbux)
+## `> whoami`
 
+```python
+class KeshavRajbux:
+    def __init__(self):
+        self.name = "Keshav (Kay-shuv) Rajbux"
+        self.role = "AI/ML Engineer"
+        self.interests = ["Generative AI", "LLMs", "RAG Pipelines", "Deep Learning"]
+        self.current_focus = "Building scalable AI systems that deliver real-world value"
+        
+    def superpower(self):
+        return "Finding creative solutions to complex ML/AI problems"
+        
+    def get_coffee_chat(self):
+        return "https://linkedin.com/in/keshav-rajbux"
+```
 
-- ⚡ Fun fact **I find complex problems and resolve them in the most creative way.**
+## `> cat skills.json`
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keshav-rajbux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-rajbux" height="30" width="40" /></a>
-</p>
+```json
+{
+  "machine_learning": ["Regression", "Classification", "Clustering", "Dimensionality Reduction"],
+  "deep_learning": ["CNNs", "RNNs", "Transformers", "GANs", "Diffusion Models"],
+  "nlp": ["LLMs", "RAG", "Embeddings", "Semantic Search", "Prompt Engineering"],
+  "languages": ["Python", "SQL", "Bash"],
+  "frameworks": ["PyTorch", "TensorFlow", "scikit-learn", "Hugging Face", "LangChain"],
+  "cloud": ["AWS", "GCP", "Azure"],
+  "data": ["MySQL", "MongoDB", "Hadoop", "Spark", "Pandas"],
+  "mlops": ["CI/CD", "Docker", "FastAPI", "Model Deployment"]
+}
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## `> ls projects/`
 
+<table>
+  <tr>
+    <td>
+      <h3>🤖 Generative AI Applications</h3>
+      <p>Building RAG systems with enterprise data integration. Fine-tuning LLMs for domain-specific tasks.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LangChain-121D33?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Hugging Face-FF9D00?style=flat-square"/>
+    </td>
+    <td>
+      <h3>📊 Predictive Analytics Models</h3>
+      <p>Developing robust predictive models for business insights. Optimizing for both accuracy and explainability.</p>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🚀 ML Deployment Pipelines</h3>
+      <p>Creating end-to-end ML deployment pipelines. Ensuring seamless transition from model to production.</p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+    </td>
+    <td>
+      <h3>🧠 Deep Learning Research</h3>
+      <p>Experimenting with cutting-edge architectures. Focus on transformer models and their applications.</p>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
+## `> tail -f journey.log`
 
+```
+[2024] >> Exploring frontier AI models and their business applications
+[2023] >> Implemented RAG solutions for enterprise knowledge bases
+[2022] >> Built and deployed predictive models at scale
+[2021] >> Specialized in deep learning architectures
+[2020] >> Mastered ML fundamentals and data pipelines
+```
 
+## `> echo $MOTTO`
 
-<!--
-**keshavrajbux/keshavrajbux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Creating+AI+that+augments+human+potential;Building+tomorrow's+intelligence%2C+today;Turning+data+into+actionable+insights;Making+complex+ML+systems+simple+and+scalable" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## `> contact`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>I'm always interested in connecting with fellow ML/AI enthusiasts, potential collaborators, and tech leaders.</p>
+  <p>Let's explore how we can leverage AI to solve meaningful problems!</p>
+  <a href="https://linkedin.com/in/keshav-rajbux">
+    <img src="https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=keshavrajbux&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
