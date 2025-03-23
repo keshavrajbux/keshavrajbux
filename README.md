@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://avatars.githubusercontent.com/u/keshavrajbux" alt="Profile Avatar" width="250" style="border-radius: 50%"/>
+      <img src="https://github.com/keshavrajbux.png" alt="Profile Avatar" width="250" style="border-radius: 50%"/>
     </td>
     <td width="50%">
       <h3>👋 Hi, I'm Keshav (Kay-shuv)</h3>
@@ -64,39 +64,6 @@
         <img src="https://img.shields.io/badge/PyTorch-gray?style=flat-square"/> 
         <img src="https://img.shields.io/badge/TensorFlow-gray?style=flat-square"/> 
         <img src="https://img.shields.io/badge/Hugging_Face-gray?style=flat-square"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🚀 Career Journey
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshavrajbux&theme=dark" alt="GitHub streak stats" width="60%"/>
-  
-  <table>
-    <tr>
-      <td>
-        <h3>2024</h3>
-        <img src="https://img.shields.io/badge/-Frontier_AI-brightgreen?style=for-the-badge"/>
-        <p>Exploring cutting-edge AI models and their business applications</p>
-      </td>
-      <td>
-        <h3>2023</h3>
-        <img src="https://img.shields.io/badge/-RAG_Solutions-blue?style=for-the-badge"/>
-        <p>Implemented knowledge retrieval systems for enterprise</p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>2022</h3>
-        <img src="https://img.shields.io/badge/-Predictive_Models-orange?style=for-the-badge"/>
-        <p>Built and deployed machine learning models at scale</p>
-      </td>
-      <td>
-        <h3>2021-2020</h3>
-        <img src="https://img.shields.io/badge/-Deep_Learning_&_ML-purple?style=for-the-badge"/>
-        <p>Mastered fundamentals and specialized in advanced architectures</p>
       </td>
     </tr>
   </table>
