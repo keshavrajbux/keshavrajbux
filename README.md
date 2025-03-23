@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="80"> KESHAV RAJBUX
 
 <div style="background: linear-gradient(to right, #4F46E5, #2563EB, #06B6D4); padding: 10px; margin-bottom: 20px; border-radius: 5px;">
-  <h3 style="color: white; margin: 0;">ML/AI Engineer specializing in LLMs & RAG Systems</h3>
+  <h3 style="color: white; margin: 0;"> Data Scientist specializing in ML/AI Engineering Systems </h3>
 </div>
 
 <a href="https://linkedin.com/in/keshav-rajbux" target="_blank">
