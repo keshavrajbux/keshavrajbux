@@ -28,16 +28,16 @@ Finding creative solutions to complex AI/ML challenges
 
 ### Expertise Areas
 
-#### 🤖 Machine Learning
+[![Machine Learning](https://img.shields.io/badge/🤖%20Machine%20Learning-FF6F00?style=flat-square&logoColor=white)](https://github.com/keshavrajbux)
 Classification • Regression • Clustering • XGBoost • Random Forests
 
-#### 🧠 Deep Learning
+[![Deep Learning](https://img.shields.io/badge/🧠%20Deep%20Learning-EE4C2C?style=flat-square&logoColor=white)](https://github.com/keshavrajbux)
 Neural Networks • CNNs • RNNs • Transformers • Transfer Learning
 
-#### 📝 NLP
+[![NLP](https://img.shields.io/badge/📝%20NLP-9cf?style=flat-square&logoColor=black)](https://github.com/keshavrajbux)
 LLMs • RAG • Embeddings • Semantic Search • Fine-tuning
 
-#### ⚙️ MLOps
+[![MLOps](https://img.shields.io/badge/⚙️%20MLOps-2496ED?style=flat-square&logoColor=white)](https://github.com/keshavrajbux)
 CI/CD • Model Serving • Monitoring • Containerization • Scaling
 
 ### Let's Connect!
