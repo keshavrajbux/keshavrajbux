@@ -16,10 +16,7 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <img src="https://github.com/keshavrajbux.png" width="100%" style="border-radius: 10px;"/>
-    </td>
-    <td width="50%">
+    <td width="100%">
       <h3>👋 Hey, I'm Keshav (Kay-shuv)</h3>
       <p>AI/ML Engineer passionate about building intelligent systems that deliver real-world value.</p>
       <p><b>🔭 Currently exploring:</b> Generative AI, LLMs, RAG Pipelines</p>
