@@ -15,14 +15,20 @@
     <td width="100%">
       <div align="center">
         <h3>👋 Hey, I'm Keshav (Kay-shuv)</h3>
-        <p><i>Turning Complex AI Challenges into Elegant Solutions</i></p>
+        <h4><i>Turning Complex AI Challenges into Elegant Solutions</i></h4>
       </div>
+      
       <p>I'm an AI/ML Engineer with a passion for crafting intelligent systems that make a real difference. Whether it's building sophisticated RAG pipelines, fine-tuning LLMs, or developing production-ready AI systems, I thrive on pushing the boundaries of what's possible.</p>
       
       <div align="center">
-        <p><b>🔭 Currently Exploring:</b> Next-gen Generative AI, LLMs, RAG Pipelines</p>
-        <p><b>🎯 Mission:</b> Building scalable, production-ready AI systems that solve real-world challenges</p>
-        <p><b>⚡ Superpower:</b> Finding creative solutions to complex AI/ML challenges</p>
+        <h4>🔭 Currently Exploring</h4>
+        <p>Next-gen Generative AI, LLMs, RAG Pipelines</p>
+        
+        <h4>🎯 Mission</h4>
+        <p>Building scalable, production-ready AI systems that solve real-world challenges</p>
+        
+        <h4>⚡ Superpower</h4>
+        <p>Finding creative solutions to complex AI/ML challenges</p>
       </div>
     </td>
   </tr>
