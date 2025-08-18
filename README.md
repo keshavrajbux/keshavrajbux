@@ -44,6 +44,5 @@ CI/CD • Model Serving • Monitoring • Containerization • Scaling
 
 I'm always excited to collaborate on innovative AI projects and exchange ideas with fellow tech enthusiasts.
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-rajbux/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=keshavrajbux&label=Profile%20views&color=0e75b6&style=flat)
