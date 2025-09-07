@@ -6,13 +6,13 @@ I'm an AI/ML Engineer with a passion for crafting intelligent systems that make 
 
 ### What I'm Up To
 
-🔭 **Currently Exploring**  
+ **Currently Exploring**  
 Next-gen Generative AI, LLMs, RAG Pipelines
 
-🎯 **Mission**  
+**Mission**  
 Building scalable, production-ready AI systems that solve real-world challenges
 
-⚡ **Superpower**  
+ **Superpower**  
 Finding creative solutions to complex AI/ML challenges
 
 ### Tech Stack
