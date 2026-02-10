@@ -102,14 +102,19 @@
 
 <br>
 
-<!-- GITHUB STATS -->
-<h2 align="center">✦ STATS ✦</h2>
+<!-- CURRENTLY -->
+<h2 align="center">✦ CURRENTLY ✦</h2>
 
 <br>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=keshavrajbux&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF)](https://git.io/streak-stats)
+```
+🔭  Building multi-agent systems that actually ship
+🧠  Exploring the frontier of RAG + reasoning
+🚀  Turning research papers into production code
+📱  Crafting iOS apps for digital wellness
+```
 
 </div>
 
