@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- SPACE HEADER WITH STARS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020024,50:090979,100:00d4ff&height=200&section=header" width="100%"/>
+<!-- GALAXY BANNER -->
+<img src="./assets/header.jpg" width="100%"/>
 
 <br>
 
-<!-- NAME - BIG AND BOLD -->
+<!-- NAME -->
 # ✦ KESHAV RAJBUX ✦
 
 ### *I teach machines to think*
@@ -13,7 +13,7 @@
 <br>
 
 <!-- ANIMATED TAGLINE -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=500&height=25&lines=Building+intelligence+from+scratch;Turning+research+into+reality;Making+AI+feel+invisible" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=30&lines=Building+intelligence+from+scratch;Turning+research+into+reality;Making+AI+feel+invisible" alt="Typing SVG" /></a>
 
 </div>
 
@@ -70,7 +70,7 @@
 <h3 align="center">AgentTube</h3>
 <p align="center">
   <a href="https://github.com/keshavrajbux/AgentTube">
-    <img src="https://img.shields.io/badge/YouTube_for_AI_Agents-020024?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube_for_AI_Agents-0a1628?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 <p align="center"><em>A content platform where machines browse, learn, and consume content — A24 aesthetic UI</em></p>
@@ -81,7 +81,7 @@
 <h3 align="center">FinAI Copilot</h3>
 <p align="center">
   <a href="https://github.com/keshavrajbux/FinAICopilot">
-    <img src="https://img.shields.io/badge/Your_Finances_Understood-090979?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Your_Finances_Understood-1e3a5f?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 <p align="center"><em>An AI that reads your spending like a story, finds patterns you miss</em></p>
@@ -94,7 +94,7 @@
 <h3 align="center">Attention Is All You Need</h3>
 <p align="center">
   <a href="https://github.com/keshavrajbux/AttentionIsAllYouNeed">
-    <img src="https://img.shields.io/badge/Transformer_From_Scratch-00d4ff?style=for-the-badge&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Transformer_From_Scratch-2563eb?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 <p align="center"><em>The paper that changed everything — implemented line by line</em></p>
@@ -105,7 +105,7 @@
 <h3 align="center">Rewire</h3>
 <p align="center">
   <a href="https://github.com/keshavrajbux/Rewire">
-    <img src="https://img.shields.io/badge/Reclaim_Your_Mind-0077b6?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Reclaim_Your_Mind-60a5fa?style=for-the-badge&logoColor=black"/>
   </a>
 </p>
 <p align="center"><em>iOS app for recovering from doom scrolling — SwiftUI</em></p>
@@ -134,26 +134,26 @@
 <div align="center">
 
 <!-- AI/ML ROW -->
-<img src="https://img.shields.io/badge/Python-020024?style=for-the-badge&logo=python&logoColor=00d4ff" />
-<img src="https://img.shields.io/badge/PyTorch-020024?style=for-the-badge&logo=pytorch&logoColor=00d4ff" />
-<img src="https://img.shields.io/badge/TensorFlow-020024?style=for-the-badge&logo=tensorflow&logoColor=00d4ff" />
-<img src="https://img.shields.io/badge/Hugging_Face-020024?style=for-the-badge&logo=huggingface&logoColor=fbbf24" />
+<img src="https://img.shields.io/badge/Python-0a1628?style=for-the-badge&logo=python&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/PyTorch-0a1628?style=for-the-badge&logo=pytorch&logoColor=f97316" />
+<img src="https://img.shields.io/badge/TensorFlow-0a1628?style=for-the-badge&logo=tensorflow&logoColor=fbbf24" />
+<img src="https://img.shields.io/badge/Hugging_Face-0a1628?style=for-the-badge&logo=huggingface&logoColor=fbbf24" />
 
 <br>
 
 <!-- INFRA ROW -->
-<img src="https://img.shields.io/badge/LangChain-020024?style=for-the-badge&logo=chainlink&logoColor=00d4ff" />
-<img src="https://img.shields.io/badge/FastAPI-020024?style=for-the-badge&logo=fastapi&logoColor=6ee7b7" />
-<img src="https://img.shields.io/badge/AWS-020024?style=for-the-badge&logo=amazon-aws&logoColor=fbbf24" />
-<img src="https://img.shields.io/badge/Docker-020024?style=for-the-badge&logo=docker&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/LangChain-0a1628?style=for-the-badge&logo=chainlink&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/FastAPI-0a1628?style=for-the-badge&logo=fastapi&logoColor=6ee7b7" />
+<img src="https://img.shields.io/badge/AWS-0a1628?style=for-the-badge&logo=amazon-aws&logoColor=fbbf24" />
+<img src="https://img.shields.io/badge/Docker-0a1628?style=for-the-badge&logo=docker&logoColor=38bdf8" />
 
 <br>
 
 <!-- FRONTEND ROW -->
-<img src="https://img.shields.io/badge/TypeScript-020024?style=for-the-badge&logo=typescript&logoColor=00d4ff" />
-<img src="https://img.shields.io/badge/Next.js-020024?style=for-the-badge&logo=next.js&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Swift-020024?style=for-the-badge&logo=swift&logoColor=f472b6" />
-<img src="https://img.shields.io/badge/PostgreSQL-020024?style=for-the-badge&logo=postgresql&logoColor=00d4ff" />
+<img src="https://img.shields.io/badge/TypeScript-0a1628?style=for-the-badge&logo=typescript&logoColor=60a5fa" />
+<img src="https://img.shields.io/badge/Next.js-0a1628?style=for-the-badge&logo=next.js&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Swift-0a1628?style=for-the-badge&logo=swift&logoColor=f97316" />
+<img src="https://img.shields.io/badge/PostgreSQL-0a1628?style=for-the-badge&logo=postgresql&logoColor=60a5fa" />
 
 </div>
 
@@ -200,13 +200,13 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/keshavrajbux">
-  <img src="https://img.shields.io/badge/LinkedIn-020024?style=for-the-badge&logo=linkedin&logoColor=00d4ff" />
+  <img src="https://img.shields.io/badge/LinkedIn-0a1628?style=for-the-badge&logo=linkedin&logoColor=60a5fa" />
 </a>
 <a href="mailto:keshav@example.com">
-  <img src="https://img.shields.io/badge/Email-020024?style=for-the-badge&logo=gmail&logoColor=00d4ff" />
+  <img src="https://img.shields.io/badge/Email-0a1628?style=for-the-badge&logo=gmail&logoColor=60a5fa" />
 </a>
 <a href="https://twitter.com/keshavrajbux">
-  <img src="https://img.shields.io/badge/Twitter-020024?style=for-the-badge&logo=x&logoColor=00d4ff" />
+  <img src="https://img.shields.io/badge/Twitter-0a1628?style=for-the-badge&logo=x&logoColor=60a5fa" />
 </a>
 
 </div>
@@ -230,11 +230,11 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=keshavrajbux&style=for-the-badge&color=00d4ff&labelColor=020024&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=keshavrajbux&style=for-the-badge&color=60a5fa&labelColor=0a1628&label=VISITORS" />
 
 </div>
 
 <br>
 
-<!-- SPACE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:090979,100:020024&height=100&section=footer" width="100%"/>
+<!-- GALAXY FOOTER -->
+<img src="./assets/header.jpg" width="100%"/>
