@@ -1,27 +1,14 @@
 <div align="center">
 
 <!-- GALAXY HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:21262d&height=300&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=KESHAV+RAJBUX" alt="Name" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=22&duration=3000&pause=2000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=35&lines=I+teach+machines+to+think;Building+intelligence+from+scratch;Turning+research+into+reality" alt="Tagline" />
-
-<br>
-
-<!-- COSMIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:a855f7&height=200&section=header&text=KESHAV%20RAJBUX&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=I%20teach%20machines%20to%20think&descSize=20&descAlignY=55" width="100%"/>
 
 </div>
 
 <br>
 
-<!-- ABOUT SECTION WITH GALAXY CARD -->
+<!-- ABOUT SECTION -->
 <div align="center">
-
-<table>
-<tr>
-<td>
 
 ```
 ╭──────────────────────────────────────────────────────────╮
@@ -40,153 +27,111 @@
 ╰──────────────────────────────────────────────────────────╯
 ```
 
-</td>
-</tr>
-</table>
-
 </div>
 
 <br>
 
-<!-- GALAXY STATS -->
+<!-- COSMIC DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+<br>
+
+<!-- PROJECTS -->
+<h2 align="center">✦ THE WORK ✦</h2>
+
+<br>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=keshavrajbux&theme=midnight-purple&hide_border=true&border_radius=20&background=0D1117&stroke=A855F7&ring=C084FC&fire=E879F9&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=C084FC&sideLabels=A78BFA&dates=6D28D9" height="180"/>
+| Project | Description |
+|:-------:|:------------|
+| **[AgentTube](https://github.com/keshavrajbux/AgentTube)** | YouTube for AI Agents — A content platform where machines browse, learn, and consume content |
+| **[FinAI Copilot](https://github.com/keshavrajbux/FinAICopilot)** | Your finances, understood — An AI that reads spending like a story |
+| **[Attention Is All You Need](https://github.com/keshavrajbux/AttentionIsAllYouNeed)** | The paper that changed everything — Transformer implemented from scratch |
+| **[Rewire](https://github.com/keshavrajbux/Rewire)** | Reclaim your mind — iOS app for recovering from doom scrolling |
 
 </div>
 
 <br>
 
 <!-- COSMIC DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 <br>
 
-<!-- PROJECTS GALAXY -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=3000&color=C084FC&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%E2%9C%A6+THE+WORK+%E2%9C%A6" alt="Projects" />
-
-</div>
+<!-- TECH STACK -->
+<h2 align="center">✦ TECH STACK ✦</h2>
 
 <br>
 
 <div align="center">
 
-<!-- PROJECT CARDS WITH GLOW EFFECT -->
+**AI / ML**
 
-<a href="https://github.com/keshavrajbux/AgentTube">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavrajbux&repo=AgentTube&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9&text_color=E9D5FF" />
-</a>
-<a href="https://github.com/keshavrajbux/FinAICopilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavrajbux&repo=FinAICopilot&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9&text_color=E9D5FF" />
-</a>
+![Python](https://img.shields.io/badge/Python-4c1d95?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-7c3aed?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-a855f7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-c084fc?style=for-the-badge&logo=huggingface&logoColor=white)
 
-<a href="https://github.com/keshavrajbux/AttentionIsAllYouNeed">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavrajbux&repo=AttentionIsAllYouNeed&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9&text_color=E9D5FF" />
-</a>
-<a href="https://github.com/keshavrajbux/Rewire">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=keshavrajbux&repo=Rewire&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9&text_color=E9D5FF" />
-</a>
+**Backend & Infrastructure**
 
-</div>
+![LangChain](https://img.shields.io/badge/LangChain-4c1d95?style=for-the-badge&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-7c3aed?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-a855f7?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-c084fc?style=for-the-badge&logo=docker&logoColor=white)
 
-<br>
+**Frontend & Mobile**
 
-<!-- COSMIC DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<br>
-
-<!-- TECH CONSTELLATION -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=3000&color=C084FC&center=true&vCenter=true&repeat=false&width=350&height=40&lines=%E2%9C%A6+TECH+STACK+%E2%9C%A6" alt="Tech" />
-
-<br><br>
-
-<!-- GLOWING TECH BADGES -->
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=C084FC&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=E879F9&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=A855F7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=F9A8D4&labelColor=0D1117" />
-
-<br>
-
-<img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=818CF8&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=6EE7B7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=60A5FA&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=E9D5FF&labelColor=0D1117" />
-
-<br>
-
-<img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FBBF24&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=A78BFA&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F472B6&labelColor=0D1117" />
+![TypeScript](https://img.shields.io/badge/TypeScript-4c1d95?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-7c3aed?style=for-the-badge&logo=next.js&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-a855f7?style=for-the-badge&logo=swift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c084fc?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 <br>
 
 <!-- COSMIC DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 <br>
 
-<!-- GITHUB STATS GALAXY -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=keshavrajbux&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9&text_color=E9D5FF&ring_color=A855F7" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavrajbux&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF" height="165" />
-
-</div>
+<!-- GITHUB STATS -->
+<h2 align="center">✦ STATS ✦</h2>
 
 <br>
 
-<!-- CONTRIBUTION SNAKE -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-</picture>
+[![GitHub Streak](https://streak-stats.demolab.com?user=keshavrajbux&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF)](https://git.io/streak-stats)
 
 </div>
 
 <br>
 
 <!-- COSMIC DIVIDER -->
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
 
 <br>
 
-<!-- CONTACT PORTAL -->
+<!-- CONNECT -->
+<h2 align="center">✦ CONNECT ✦</h2>
+
+<br>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2000&pause=3000&color=C084FC&center=true&vCenter=true&repeat=false&width=300&height=40&lines=%E2%9C%A6+CONNECT+%E2%9C%A6" alt="Connect" />
-
-<br><br>
-
-<a href="https://linkedin.com/in/keshavrajbux">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C084FC&labelColor=0D1117" />
-</a>
-<a href="mailto:keshav@example.com">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=E879F9&labelColor=0D1117" />
-</a>
-<a href="https://twitter.com/keshavrajbux">
-<img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=A855F7&labelColor=0D1117" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4c1d95?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshavrajbux)
+[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keshav@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-a855f7?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/keshavrajbux)
 
 </div>
 
@@ -212,13 +157,11 @@
 <br>
 
 <!-- VISITOR COUNTER -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=keshavrajbux&style=for-the-badge&color=A855F7&labelColor=0D1117&label=VISITORS" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keshavrajbux&style=for-the-badge&color=a855f7&label=VISITORS" />
+</p>
 
 <br>
 
 <!-- GALAXY FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:7C3AED,100:A855F7&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:7c3aed,100:4c1d95&height=120&section=footer" width="100%"/>
